@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.harmoniedester.be</loc>
+    <loc>https://www.harmoniedester.be</loc>
     <xhtml:link rel="alternate" hreflang="fr-BE" href="fr.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="nl-BE" href="nl.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="en-BE" href="en.harmoniedester.be" />
   </url>
   <url>
-    <loc>fr.harmoniedester.be</loc>
+    <loc>https://fr.harmoniedester.be</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="www.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="nl-BE" href="nl.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="en-BE" href="en.harmoniedester.be" />
   </url>
   <url>
-    <loc>nl.harmoniedester.be</loc>
+    <loc>https://nl.harmoniedester.be</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="www.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="fr-BE" href="fr.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="en-BE" href="en.harmoniedester.be" />
   </url>
   <url>
-    <loc>en.harmoniedester.be</loc>
+    <loc>https://en.harmoniedester.be</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="www.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="fr-BE" href="fr.harmoniedester.be" />
     <xhtml:link rel="alternate" hreflang="nl-BE" href="nl.harmoniedester.be" />
