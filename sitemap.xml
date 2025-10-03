@@ -3,26 +3,26 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.harmoniedester.be</loc>
-    <xhtml:link rel="alternate" hreflang="fr-BE" href="fr.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="nl-BE" href="nl.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="en-BE" href="en.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
   </url>
   <url>
     <loc>https://fr.harmoniedester.be</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="www.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="nl-BE" href="nl.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="en-BE" href="en.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
   </url>
   <url>
     <loc>https://nl.harmoniedester.be</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="www.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="fr-BE" href="fr.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="en-BE" href="en.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
   </url>
   <url>
     <loc>https://en.harmoniedester.be</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="www.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="fr-BE" href="fr.harmoniedester.be" />
-    <xhtml:link rel="alternate" hreflang="nl-BE" href="nl.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
   </url>
 </urlset>
