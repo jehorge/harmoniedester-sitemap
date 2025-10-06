@@ -4,45 +4,45 @@
   <url>
         <loc>https://www.harmoniedester.be</loc>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be" />
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
   </url>
   <url>
         <loc>https://fr.harmoniedester.be</loc>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be" />
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
   </url>
   <url>
         <loc>https://nl.harmoniedester.be</loc>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be" />
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
   </url>
   <url>
         <loc>https://en.harmoniedester.be</loc>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://www.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be" />
-        <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be" />
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
   </url>
 <url>
         <loc>https://nl.harmoniedester.be/agenda</loc>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://nl.harmoniedester.be/agenda" />
-        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/agenda" />
-        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda" />
-        <xhtml:link rel="alternate" hreflang="en-BE" href="https://en.harmoniedester.be/agenda" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be/agenda" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be/agenda" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda" />
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
   </url>
