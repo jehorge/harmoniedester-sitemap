@@ -46,4 +46,22 @@
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
   </url>
+  <url>
+        <loc>https://fr.harmoniedester.be/agenda/steracademie</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fr.harmoniedester.be/agenda/steracademie" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be/agenda/steracademie" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be/agenda/steracademie" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/steracademie" />
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+  </url>   
+  <url>
+        <loc>https://nl.harmoniedester.be/agenda/newyear</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://nl.harmoniedester.be/agenda/newyear" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://fr.harmoniedester.be/agenda/newyear" />
+        <xhtml:link rel="alternate" hreflang="nl" href="https://nl.harmoniedester.be/agenda/newyear" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/newyear" />
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+  </url>  
 </urlset>
