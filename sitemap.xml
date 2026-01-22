@@ -44,7 +44,7 @@
         <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/" />
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.8</priority>
   </url>
 <url>
         <loc>https://nl.harmoniedester.be/agenda/</loc>
@@ -53,7 +53,7 @@
         <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/" />
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.8</priority>
   </url>
 <url>
         <loc>https://en.harmoniedester.be/agenda/</loc>
@@ -62,7 +62,34 @@
         <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/" />
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.8</priority>
+  </url>
+        <url>
+        <loc>https://fr.harmoniedester.be/archive/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fr.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/archive/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+  </url>
+<url>
+        <loc>https://nl.harmoniedester.be/archive/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://nl.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/archive/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+  </url>
+<url>
+        <loc>https://en.harmoniedester.be/archive/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://en.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/archive/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/archive/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
   </url>
   <url>
         <loc>https://fr.harmoniedester.be/agenda/steracademie/</loc>
@@ -117,5 +144,32 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/newyear/" />
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+  </url>  
+    <url>
+        <loc>https://fr.harmoniedester.be/agenda/noel/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fr.harmoniedester.be/agenda/noel/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/agenda/noel/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda/kerst/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/christmas/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+  </url>  
+  <url>
+        <loc>https://nl.harmoniedester.be/agenda/kerst/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://nl.harmoniedester.be/agenda/kerst/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/agenda/noel/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda/kerst/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/christmas/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+  </url>  
+  <url>
+        <loc>https://en.harmoniedester.be/agenda/christmas/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://en.harmoniedester.be/agenda/christmas/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/agenda/noel/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/agenda/kerst/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/agenda/christmas/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
   </url>  
 </urlset>
