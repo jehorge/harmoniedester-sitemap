@@ -172,4 +172,35 @@
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
   </url>  
+
+
+            <url>
+        <loc>https://fr.harmoniedester.be/nous-soutenir/destrooper/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://fr.harmoniedester.be/nous-soutenir/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/nous-soutenir/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/steun-ons/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/support-us/destrooper/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+  </url>  
+  <url>
+        <loc>https://nl.harmoniedester.be/steun-ons/destrooper</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://nl.harmoniedester.be/agenda/kerst/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/nous-soutenir/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/steun-ons/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/support-us/destrooper/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+  </url>  
+  <url>
+        <loc>https://en.harmoniedester.be/support-us/destrooper/</loc>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://en.harmoniedester.be/support-us/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="fr-BE" href="https://fr.harmoniedester.be/nous-soutenir/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="nl-BE" href="https://nl.harmoniedester.be/steun-ons/destrooper/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://en.harmoniedester.be/support-us/destrooper/" />
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+  </url>  
+
+        
 </urlset>
